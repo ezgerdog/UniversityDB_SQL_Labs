@@ -2,7 +2,8 @@ SQL University Database Labs
 
 This repository contains 7 weeks of SQL laboratory assignments for the Computer Engineering Department at Fenerbahçe University. Each lab covers topics such as database design, query writing, view creation, and data manipulation.
 
-Lab Files
+
+LAB FILES
 
 Lab1_BasicQueries.sql
 
@@ -21,7 +22,8 @@ Lab7_ComplexQueriesAndAggregations.sql
 Each file includes the questions and solutions for the corresponding lab week.
 
 
-Weekly Summary
+
+WEEKLY SUMMARY
 
 Week 1: Basic SQL queries focusing on selecting data with filtering and simple conditions.
 
